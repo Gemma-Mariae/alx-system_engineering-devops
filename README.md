@@ -1,1 +1,1 @@
-This is my shell basics project.
+__Learning some shell basics__
